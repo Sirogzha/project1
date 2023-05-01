@@ -136,3 +136,5 @@ function digitSum(y) {
 console.log(digitSum(128));
 console.log(digitSum(1));
 console.log(digitSum(5659));
+
+console.log('Изменения для GIT')
